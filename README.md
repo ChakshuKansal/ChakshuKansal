@@ -1,5 +1,9 @@
-# 💫 Hey, I'm Chakshu! 🐥
-🌱 I'm currently learning JAVA. <br>🤔 I’m looking for a job as a Software Developer .<br>💬 Ask me about anything between Code and Community 💖<br>😄 Pronouns: He/Him 💁‍♂️<br>⚡ Fun fact: I wake up early every morning 🦉
+# Hey, I'm Chakshu! 👋  
+🌱 Currently learning **Java** and building my software development skills.  
+🤔 Looking for opportunities as a **Software Developer**.  
+💬 Skilled in **C++**, with a strong interest in coding and technology.  
+😄 Pronouns: **He/Him**  
+⚡ Fun fact: I’m an early riser who loves problem-solving.  
 
 
 ## 🌐 Socials:
